@@ -1,5 +1,5 @@
 #  What's up? 
-
+[![wakatime](https://wakatime.com/badge/user/0e871272-e005-4896-ad55-5d9b72b6fb27.svg)](https://wakatime.com/@0e871272-e005-4896-ad55-5d9b72b6fb27)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dimoniuos&theme=radical)](https://git.io/streak-stats)
 
