@@ -8,7 +8,7 @@
 
 
 ## Backend
-![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,pytest,kotlin,spring,aiogram,go,cpp,postgresql,sqlite,swagger,postman&perline=6&titles=true)
+![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,pytest,kotlin,spring,aiogram,go,cpp,postgresql,sqlite,swagger,postman,grafana,resend&perline=6&titles=true)
 
 ## Frontend
 ![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=html,css,js&perline=6&titles=true)
